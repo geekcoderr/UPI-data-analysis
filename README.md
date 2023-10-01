@@ -4,7 +4,7 @@
 
 ## Description
 
-UPI Data Analysis is an open-source repository for performing and developing solutions for UPI (Unified Payments Interface) data analysis. This repository allows you to explore various types of testing, data analysis, and prediction on datasets from different years related to UPI transactions.
+UPI Data Analysis is an open-source repository for performing and developing solutions for UPI (Unified Payments Interface) data analysis. This repository allows you to explore various types of testing, data analysis, and prediction on datasets from different contexts related to UPI transactions.
 
 ## Installation
 
@@ -29,7 +29,7 @@ To perform data analysis and visualization, follow these steps:
 
 # Navigate to the "Inference" folder.
 - ```bash
-  cd UPI-data-analysis/Inference
+  cd UPI-data-analysis/inference-data
 
 Create a folder for your specific analysis, naming it <operationPerformed_day-month-date.format_type>. For example, exploratory_analysis_10-april-2023.png.
 
