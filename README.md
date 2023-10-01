@@ -24,15 +24,17 @@ To get started with UPI Data Analysis, make sure you have the following librarie
 To perform data analysis and visualization, follow these steps:
 
 # Clone the repository
+- ```bash
 git clone https://github.com/yourusername/UPI-data-analysis.git
 
 # Navigate to the "Inference" folder.
-
-  cd UPI-data-analysis/Inference
+- ```bash
+cd UPI-data-analysis/Inference
 
 # Create a folder for your specific analysis, naming it <operationPerformed_date>. For example, exploratory_analysis_2023.
 
-  mkdir exploratory_analysis_2023
+- ```bash
+mkdir exploratory_analysis_2023
 
 # Add the results of your analysis in the form of images, text files, or Jupyter Notebooks within the created folder.
 
@@ -40,13 +42,14 @@ git clone https://github.com/yourusername/UPI-data-analysis.git
 ## Contributing
 Contributions to UPI Data Analysis are welcome! Here's how you can contribute:
 
-# Fork the repository.
-# Create a new branch for your work.
+Fork the repository.
+Create a new branch for your work.
+- ```bash
   git checkout -b feature/my-contribution
 
-# Make your changes and commit them.
-# Push your changes to your forked repository.
-# Create a pull request to the main repository.
+Make your changes and commit them.
+Push your changes to your forked repository.
+Create a pull request to the main repository.
 
 ## License
 
