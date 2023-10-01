@@ -27,7 +27,7 @@ To perform data analysis and visualization, follow these steps:
 - ```bash
   git clone https://github.com/yourusername/UPI-data-analysis.git
 
-# Navigate to the "Inference" folder.
+# Navigate to the "inference-data" folder.
 - ```bash
   cd UPI-data-analysis/inference-data
 
