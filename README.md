@@ -25,18 +25,18 @@ To perform data analysis and visualization, follow these steps:
 
 # Clone the repository
 - ```bash
-git clone https://github.com/yourusername/UPI-data-analysis.git
+  git clone https://github.com/yourusername/UPI-data-analysis.git
 
 # Navigate to the "Inference" folder.
 - ```bash
-cd UPI-data-analysis/Inference
+  cd UPI-data-analysis/Inference
 
-# Create a folder for your specific analysis, naming it <operationPerformed_date>. For example, exploratory_analysis_2023.
+Create a folder for your specific analysis, naming it <operationPerformed_day-month-date.format_type>. For example, exploratory_analysis_10-april-2023.png.
 
 - ```bash
-mkdir exploratory_analysis_2023
+  mkdir exploratory_analysis_2023
 
-# Add the results of your analysis in the form of images, text files, or Jupyter Notebooks within the created folder.
+Add the results of your analysis in the form of images, text files, or Jupyter Notebooks within the created folder.
 
 
 ## Contributing
@@ -57,7 +57,7 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-Acknowledgments for libraries, data sources, or collaborators can be mentioned here.
+Acknowledgments for libraries, data sources, or collaborators would be mentioned here.
 
 ## Contact Information
 
