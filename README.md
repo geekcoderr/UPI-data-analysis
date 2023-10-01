@@ -31,7 +31,7 @@ To perform data analysis and visualization, follow these steps:
 - ```bash
   cd UPI-data-analysis/inference-data
 
-Create a folder for your specific analysis, naming it <operationPerformed_day-month-date.format_type>. For example, exploratory_analysis_10-april-2023.png.
+Create a folder for your specific analysis, naming it <operationPerformed_day-month-year.format_type>. For example, exploratory_analysis_10-april-2023.png.
 
 - ```bash
   mkdir exploratory_analysis_2023
